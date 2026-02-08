@@ -1,0 +1,10 @@
+fastapi==0.115.5
+uvicorn[standard]==0.32.1
+python-multipart==0.0.19
+python-pptx==1.0.2
+PyMuPDF==1.24.14
+pillow==11.0.0
+torch==2.5.1
+transformers==4.44.0
+diffusers==0.30.0
+accelerate==1.1.1
