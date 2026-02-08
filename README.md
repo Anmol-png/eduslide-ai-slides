@@ -238,3 +238,4 @@ Created with ❤️
 ---
 
 **Made with AI ✨ | Powered by Claude**
+# eduslide-ai-slides
